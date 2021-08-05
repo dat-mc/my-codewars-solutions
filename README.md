@@ -29,7 +29,7 @@ My [codewars](http://codewars.com) kata solutions
   - [Sum of angles](Swift%20Fundamentals/7%20kyu/Sum%20of%20angles.swift)
   - [Triangular Treasure](Swift%20Fundamentals/7%20kyu/Triangular%20Treasure.swift)
   - [Heron's formula](Swift%20Fundamentals/7%20kyu/Heron's%20formula.swift)
-  - [Sum of two lowest positive integers](Swift%20Fundamentals/7%20kyu/Sum%20of%20two%20lowest%20positive%20integers.swif)
+  - [Sum of two lowest positive integers](Swift%20Fundamentals/7%20kyu/Sum%20of%20two%20lowest%20positive%20integers.swift)
 - 8 kyu
   - [Convert a Boolean to a String](Swift%20Fundamentals/8%20kyu/Convert%20a%20Boolean%20to%20a%20String.swift)
   - [Grasshopper - Personalized Message](Swift%20Fundamentals/8%20kyu/Grasshopper%20-%20Personalized%20Message.swift)
