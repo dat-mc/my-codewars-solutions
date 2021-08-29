@@ -3,12 +3,6 @@ My [codewars](http://codewars.com) kata solutions
 
 ![Badge](https://www.codewars.com/users/datmc/badges/large)
 
-### Python
-- 5 kyu
-  - [Double cola](%20Python%20Fundamentals/5%20kyu/Double%20Cola.py)
-- 6 kyu
-  - [CamelCase Method](%20Python%20Fundamentals/6%20kyu/CamelCase%20Method.py)
-  - [Create Phone Number](%20Python%20Fundamentals/6%20kyu/Create%20Phone%20Number.py)
 ### C++
 - 8 kyu
   - [Sort and Star](C%2B%2B%20Fundamentals/8%20kyu/Sort%20and%20Star.cpp)
@@ -22,6 +16,15 @@ My [codewars](http://codewars.com) kata solutions
   - [String ends with?](JS%20Fundamentals/7%20kyu/String%20ends%20with%3F.js)
 - 8 kyu
   - [Grasshopper - Summation](JS%20Fundamentals/8%20kyu/Grasshopper%20-%20Summation.js)
+### PHP
+- 7 kyu
+  - [Descending Order](PHP%20Fundamentals/7%20kyu/Descending%20Order.php)
+### Python
+- 5 kyu
+  - [Double cola](%20Python%20Fundamentals/5%20kyu/Double%20Cola.py)
+- 6 kyu
+  - [CamelCase Method](%20Python%20Fundamentals/6%20kyu/CamelCase%20Method.py)
+  - [Create Phone Number](%20Python%20Fundamentals/6%20kyu/Create%20Phone%20Number.py)
 ### Swift
 - 7 kyu
   - [Jaden Casing Strings](Swift%20Fundamentals/7%20kyu/Jaden%20Casing%20Strings.swift)
