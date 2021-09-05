@@ -19,6 +19,8 @@ My [codewars](http://codewars.com) kata solutions
 ### PHP
 - 7 kyu
   - [Descending Order](PHP%20Fundamentals/7%20kyu/Descending%20Order.php)
+- 8 kyu
+  - [Sentence Smash](PHP%20Fundamentals/8%20kyu/Sentence%20Smash.php)
 ### Python
 - 5 kyu
   - [Double cola](%20Python%20Fundamentals/5%20kyu/Double%20Cola.py)
